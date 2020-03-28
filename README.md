@@ -4,6 +4,7 @@ In order to use the templates you must have an AWS account. Additionally you mus
 
 ## Authors
 
+* **AWS Java SDK** - [AWS Developer Guide](https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/welcome.html)
 * **David Barrineau** - *Initial work* - [cdbarrineau](https://github.com/cdbarrineau)
 
 
